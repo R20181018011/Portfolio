@@ -36,7 +36,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
   * Nested for loops
 * **What I Learned:**
   * Actually figuring out how 2D arrays work and how to traverse rows and columns using nested loops without getting lost in the indices.
-* **Midterm Lab Tasks/Lab task 1** 
+* **Link:** [Lab Task #1](https://github.com/R20181018011/Portfolio/tree/main/Midterm%20Lab%20Tasks/Lab%20task%201)
 
 ### 2. Student Grade Management System
 * **Description:** A 3D array-based Java program designed to organize sections, students, and their enrolled subjects. After the user inputs grades for each subject, the system calculates the average grade for every individual student as well as the overall average for the entire section.
@@ -48,7 +48,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
   * Math
 * **What I Learned:**
   * Managing multi-dimensional data structures challenged me to think more creatively and write cleaner, more concise code.
-* **Link:** [Lab Task #1](https://github.com/R20181018011/Portfolio/tree/main/Midterm%20Lab%20Tasks/Lab%20task%201)
+* **Link:** [Lab Task #2](https://github.com/R20181018011/Portfolio/tree/main/Midterm%20Lab%20Tasks/Lab%20task%201)
 
 ---
 
