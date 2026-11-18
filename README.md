@@ -10,11 +10,11 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🚀 About Me
+## 🎓  About Me
 
-* 🎓 IT Student at **NU Clark** (Course & Section: **ITE 102**)
-* 💻 Currently learning: Java
-* 🌱 Interested in: Programming and Gaming
+* IT Student at **NU Clark** (Course & Section: **ITE 102**)
+* Currently learning: Java
+* Interested in: Programming and Gaming
 
 
 ## Current Goals
@@ -58,11 +58,11 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🏆 Achievements
+## ✅ Achievements
 
-* ✅ Made a functional website for a business in catering with a booking system and real time messaging system whilist hosting the website as well when i was in grade 11 & 12.
-* ✅ Learned the fundamentals of programming and trying to expand for more knowledge.
-* ✅ Learned GitHub basics
+* Made a functional website for a business in catering with a booking system and real time messaging system whilist hosting the website as well when i was in grade 11 & 12.
+* Learned the fundamentals of programming and trying to expand for more knowledge.
+* Learned GitHub basics
 
 ---
 
