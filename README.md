@@ -25,7 +25,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🎨 Midterm Projects
+## Midterm Projects
 
 ### 1. Matrix
 * **Description:** A Java console application built using a 2D array that lets users populate a grid with integer values and automatically calculates the sum of every row and column.
@@ -52,13 +52,13 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🎯 Finals Projects
+## Finals Projects
 
 > 
 
 ---
 
-## ✅ Achievements
+## Achievements
 
 * Made a functional website for a business in catering with a booking system and real time messaging system whilist hosting the website as well when i was in grade 11 & 12.
 * Learned the fundamentals of programming and trying to expand for more knowledge.
@@ -66,7 +66,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Senior High School:** STI San Fernando (MAWD STRAND) 
 * **Junior High School:** FEU Roosevelt Marikina and Lyndale Academy 
@@ -74,13 +74,13 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 📜 Programming and Web Development Skills
+## Programming and Web Development Skills
 
 `Java` `HTML` `CSS`
 
 ---
 
-## 📌 Skills
+## Skills
 
 * Patience 
 * Adaptability 
@@ -88,7 +88,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
 
 ---
 
-## 🎮 Facts About Me
+## Facts About Me
 
 * I Like to play Video Games in my free time.
 * I was born and raised for 15 years in a country called qatar.
