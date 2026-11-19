@@ -1,4 +1,4 @@
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=ITE102-PORTFOLIO%20ARIENDA%20ALLEN%20JAMES&fontSize=35&fontColor=ffffff&fontAlignY=40)]
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4a0404,100:b91c1c&height=150&section=header&text=ITE102-PORTFOLIO%20ARIENDA%20ALLEN%20JAMES&fontSize=35&fontColor=ffffff)
 
 Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming lab exercises and projects, showcasing my skills in problem-solving, logic building, and handling data structures based on what I learned in class. It reflects my progress and understanding of the subject.
 
