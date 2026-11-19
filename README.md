@@ -48,7 +48,7 @@ Welcome to my **ITE 102 Portfolio**! This portfolio contains my Java programming
   * Math
 * **What I Learned:**
   * Managing multi-dimensional data structures challenged me to think more creatively and write cleaner, more concise code.
-* **Link:** [Lab Task #2](https://github.com/R20181018011/Portfolio/tree/main/Midterm%20Lab%20Tasks/Lab%20task%201)
+* **Link:** [Lab Task #2](https://github.com/R20181018011/Portfolio/tree/main/Midterm%20Lab%20Tasks/lab%20task%202)
 
 ---
 
